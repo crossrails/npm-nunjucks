@@ -1,6 +1,6 @@
-# Typed Yargs
+# Typed Nunjucks
 
-The type definition for [yargs](https://github.com/bcoe/yargs).
+The type definition for [nunjucks](https://github.com/mozilla/nunjucks).
 
 ## License
 

@@ -1,0 +1,7 @@
+{
+  "name": "nunjucks",
+  "main": "index.d.ts",
+  "globalDevDependencies": {
+    "node": "registry:dt/node#6.0.0+20160514165920"
+  }
+}

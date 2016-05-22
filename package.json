@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "typings bundle -o bundle/main.d.ts -G && ts-node test.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^0.6.1",
+    "typings": "^1.0.4",
+    "nunjucks": "^2.4.2"
+  }
+}
