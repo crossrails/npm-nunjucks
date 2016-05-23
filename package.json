@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "test": "typings bundle -o bundle/main.d.ts -G && ts-node test.ts"
+    "test": "typings bundle -o bundle/main.d.ts && ts-node test.ts"
   },
   "devDependencies": {
     "ts-node": "^0.6.1",
